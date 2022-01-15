@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88f25c22-f6e0-43e0-a505-d515e9addf47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23cfJIHifbMFniCxFJ8sP3jFWaz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python3W/imageW/yolov5-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\workplace\pythonWorlplace\python310W\ttscreeneen\static" />
+      <recent name="I:\workplace\pythonWorlplace\python310W\ttscreeneen\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.ttscreeneen">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ttscreeneen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ttscreeneen" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ttscreeneen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ttscreeneen.settings" />
+      </envs>
+      <option name="SDK_HOME" value="I:\workplace\pythonWorlplace\python_env\django2V\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88f25c22-f6e0-43e0-a505-d515e9addf47" name="Default Changelist" comment="" />
+      <created>1642038222825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642038222825</updated>
+      <workItem from="1642038226679" duration="21970000" />
+      <workItem from="1642122251417" duration="20507000" />
+      <workItem from="1642207320266" duration="13437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642064455768">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.976.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1642064455768" />
+    <state x="1011" y="399" key="FileChooserDialogImpl" timestamp="1642151261905">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="399" key="FileChooserDialogImpl/3840.976.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1642151261905" />
+    <state width="2507" height="385" key="GridCell.Tab.0.bottom" timestamp="1642232612196">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="385" key="GridCell.Tab.0.bottom/3840.976.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1642232612196" />
+    <state width="2507" height="385" key="GridCell.Tab.0.center" timestamp="1642232612196">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="385" key="GridCell.Tab.0.center/3840.976.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1642232612196" />
+    <state width="2507" height="385" key="GridCell.Tab.0.left" timestamp="1642232612196">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="385" key="GridCell.Tab.0.left/3840.976.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1642232612196" />
+    <state width="2507" height="385" key="GridCell.Tab.0.right" timestamp="1642232612196">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="385" key="GridCell.Tab.0.right/3840.976.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1642232612196" />
+    <state x="889" y="484" key="com.intellij.ide.util.TipDialog" timestamp="1642122519725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="889" y="484" key="com.intellij.ide.util.TipDialog/3840.976.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1642122519725" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1642214120173">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/3840.976.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1642214120173" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ttscreeneen$test.coverage" NAME="test Coverage Results" MODIFIED="1642146343652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
